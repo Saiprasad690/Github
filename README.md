@@ -24,6 +24,14 @@ To get back to the previous changes in the code
 ```
 git reset hard --commit id
 ```
+Create a new branch
+```
+git checkout -b name
+```
+switching between branches
+```
+git checkout name
+```
 SSH type and public key are generated
 ```
 ssh-keygen -t rsa
