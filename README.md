@@ -24,7 +24,11 @@ To get back to the previous changes in the code
 ```
 git reset hard --commit id
 ```
-SSH type
+SSH type and public key are generated
 ```
 ssh-keygen -t rsa
 ```
+```
+/c/Users/sai/.ssh/
+````
+Above is the path for public key 
