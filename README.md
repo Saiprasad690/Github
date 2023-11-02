@@ -32,11 +32,11 @@ switching between branches
 ```
 git checkout name
 ```
-SSH type and public key are generated
+# SSH type and public key are generated
 ```
 ssh-keygen -t rsa
 ```
 ```
 /c/Users/sai/.ssh/
 ````
-Above is the path for public key 
+Above is the path to the public key 
