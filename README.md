@@ -9,7 +9,7 @@ git add filename
 ```
 git status
 ```
-Git diff show what changes are made to the file
+Git diff shows what changes are made to the file
 ```
 git diff
 ```
@@ -20,8 +20,11 @@ to know the commits id's
 ```
 git log
 ```
-To get back to the previous changes of code
+To get back to the previous changes in the code
 ```
 git reset hard --commit id
 ```
-
+SSH type
+```
+ssh-keygen -t rsa
+```
